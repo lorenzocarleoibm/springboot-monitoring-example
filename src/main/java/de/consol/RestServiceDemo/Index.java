@@ -35,7 +35,7 @@ public class Index {
             "<head>" +
             "</head>" +
             "<body>" +
-            "<a href=\"./hello-world\"\">Link to \"Hello world with counter for prometheus\" REST service</a><br/>" +
+            "<a href=\"./hello-world\"\">Link to \"Hello world with counter for prometheus\" REST service VERSION 2</a><br/>" +
             "<a href=\"./metrics\"\">Link to \"Metrics for prometheus\" REST service</a>" +
             "</body>" +
             "</html>";
